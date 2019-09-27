@@ -1,0 +1,14 @@
+$ git branch
+Lists all local branches in the current repository.
+
+$ git branch <nameofyourbranch>
+creates a new branch
+
+$ git checkout <nameofyourfeaturebranch>
+Updates the working directory.
+
+$ git merge <branch name>
+Combines the specified branch's history into the current branch.
+
+$ git branch -d <branch name>
+Deletes the specified branch.
